@@ -1,0 +1,14 @@
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\bin\Debug\net8.0\ConsoleChatClient.exe
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\bin\Debug\net8.0\ConsoleChatClient.deps.json
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\bin\Debug\net8.0\ConsoleChatClient.runtimeconfig.json
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\bin\Debug\net8.0\ConsoleChatClient.dll
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\bin\Debug\net8.0\ConsoleChatClient.pdb
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.AssemblyInfoInputs.cache
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.AssemblyInfo.cs
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.dll
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\refint\ConsoleChatClient.dll
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.pdb
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ConsoleChatClient.genruntimeconfig.cache
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatClient\ConsoleChatClient\obj\Debug\net8.0\ref\ConsoleChatClient.dll

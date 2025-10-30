@@ -1,0 +1,14 @@
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\bin\Debug\net8.0\ConsoleChatServer.exe
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\bin\Debug\net8.0\ConsoleChatServer.deps.json
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\bin\Debug\net8.0\ConsoleChatServer.runtimeconfig.json
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\bin\Debug\net8.0\ConsoleChatServer.dll
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\bin\Debug\net8.0\ConsoleChatServer.pdb
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.AssemblyInfoInputs.cache
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.AssemblyInfo.cs
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.dll
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\refint\ConsoleChatServer.dll
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.pdb
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ConsoleChatServer.genruntimeconfig.cache
+C:\Users\Mert Can Yücedağ\source\repos\ConsoleChatServer\ConsoleChatServer\obj\Debug\net8.0\ref\ConsoleChatServer.dll
